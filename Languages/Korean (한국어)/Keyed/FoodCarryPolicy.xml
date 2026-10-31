@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCP_CarryHeader>소지품에 보관</FCP_CarryHeader>
+  <FCP_CarryTip>이 정책을 쓰는 정착민은 각 음식을 지정한 개수만큼 소지품에 넣고 다닙니다. 먹기 허용 여부와는 상관없습니다.</FCP_CarryTip>
+  <FCP_AddFood>음식 추가...</FCP_AddFood>
+  <FCP_NoCarry>소지할 음식이 없습니다.</FCP_NoCarry>
+  <FCP_PickFoodTitle>소지할 음식 선택</FCP_PickFoodTitle>
+  <FCP_OwnedOnly>보유 중인 음식만</FCP_OwnedOnly>
+  <FCP_NoMatch>해당하는 음식이 없습니다.</FCP_NoMatch>
+</LanguageData>

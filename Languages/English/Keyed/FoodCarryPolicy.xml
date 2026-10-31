@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FCP_CarryHeader>Carry in inventory</FCP_CarryHeader>
+  <FCP_CarryTip>Pawns using this policy keep this many of each food in their inventory. This is independent of whether they are allowed to eat it.</FCP_CarryTip>
+  <FCP_AddFood>Add food...</FCP_AddFood>
+  <FCP_NoCarry>No food set to carry.</FCP_NoCarry>
+  <FCP_PickFoodTitle>Choose food to carry</FCP_PickFoodTitle>
+  <FCP_OwnedOnly>Only food in stock</FCP_OwnedOnly>
+  <FCP_NoMatch>No matching food.</FCP_NoMatch>
+</LanguageData>

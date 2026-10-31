@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThinkTreeDef[defName="MainColonistBehaviorCore"]//li[@Class="JobGiver_MoveDrugsToInventory"]</xpath>
+    <order>Append</order>
+    <value>
+      <li Class="FoodCarryPolicy.JobGiver_MoveFoodToInventory"/>
+    </value>
+  </Operation>
+</Patch>
